@@ -6,11 +6,10 @@
     <title>TrendingRepoParser</title>
     <authors>Aalok Singh</authors>
     <owners>Aalok Singh</owners>
-    <licenseUrl></licenseUrl>
-    <projectUrl></projectUrl>
-    <iconUrl></iconUrl>
+    <licenseUrl>https://github.com/aalok05/TrendingRepoParser/blob/dev/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/aalok05/TrendingRepoParser</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>.NET Standard library for getting Trending Repositories on GitHub</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>github trending</tags>
