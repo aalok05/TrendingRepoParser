@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TrendingRepoParser</id>
+    <version>1.0.0</version>
+    <title>TrendingRepoParser</title>
+    <authors>Aalok Singh</authors>
+    <owners>Aalok Singh</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>github trending</tags>
+  </metadata>
+</package>
