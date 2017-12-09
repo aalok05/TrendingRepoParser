@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Aalok Singh</Authors>
+    <Description>Parses owner and repository name from GitHub Trending page.</Description>
+    <PackageTags>github trending</PackageTags>
+    <PackageLicenseUrl>https://github.com/aalok05/TrendingRepoParser/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/aalok05/TrendingRepoParser</RepositoryUrl>
+    <Copyright>Copyright 2017</Copyright>
+    <PackageProjectUrl>https://github.com/aalok05/TrendingRepoParser</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
