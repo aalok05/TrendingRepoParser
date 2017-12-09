@@ -10,6 +10,13 @@
     <RepositoryUrl>https://github.com/aalok05/TrendingRepoParser</RepositoryUrl>
     <Copyright>Copyright 2017</Copyright>
     <PackageProjectUrl>https://github.com/aalok05/TrendingRepoParser</PackageProjectUrl>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netstandard2.0\TrendingRepoParser.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
