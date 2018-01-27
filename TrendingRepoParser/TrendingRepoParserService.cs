@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrendingRepoParser
 {
-    public partial class TrendingRepoParserService
+    public class TrendingRepoParserService
     {
         /// <summary>
         /// Gets Trending repositories in a time range
