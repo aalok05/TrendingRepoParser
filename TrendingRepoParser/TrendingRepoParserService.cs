@@ -8,11 +8,6 @@ namespace TrendingRepoParser
 {
     public class TrendingRepoParserService
     {
-        public enum TimeRange
-        {
-            TODAY, WEEKLY, MONTHLY
-        }
-
         /// <summary>
         /// Gets Trending repositories in a time range
         /// </summary>
