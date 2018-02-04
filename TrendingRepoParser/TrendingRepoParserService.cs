@@ -51,6 +51,12 @@ namespace TrendingRepoParser
             return repoNames;
         }
 
+        /// <summary>
+        /// Gets Trending repositories in a time range for a language
+        /// </summary>
+        /// <param name="range"></param>
+        /// <param name="language"></param>
+        /// <returns></returns>
         public async static Task<List<Tuple<string, string>>> ExtractTrendingRepoNames(TimeRange range, Language language)
         {
             string url = "";

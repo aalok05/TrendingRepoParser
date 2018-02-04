@@ -10,9 +10,10 @@
     <RepositoryUrl>https://github.com/aalok05/TrendingRepoParser</RepositoryUrl>
     <Copyright>Copyright 2017</Copyright>
     <PackageProjectUrl>https://github.com/aalok05/TrendingRepoParser</PackageProjectUrl>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.0.2</AssemblyVersion>
+    <FileVersion>1.0.0.2</FileVersion>
+    <Version>1.0.2</Version>
+    <PackageReleaseNotes>Added ability to get trending repositories for a specific language.</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
